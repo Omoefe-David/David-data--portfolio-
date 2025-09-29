@@ -1,4 +1,4 @@
-# 📊 Data Portfolio – Omoye Fe David
+# 📊 Data Portfolio – Omoefe David
 
 Welcome to my data analysis portfolio!  
 Here you'll find my hands-on projects from Coursera (Guided Projects + Professional Certificates) showcasing my skills in **Excel, SQL, Python (Pandas), Tableau, and Power BI**.
